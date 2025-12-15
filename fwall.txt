@@ -3,7 +3,7 @@ Let's make a game!
 	by:Tellurium
 	created:04/21/2014
 	updated:12/27/2014
-	version:2.3.469
+	version:2.3.4
 
 Settings :
 	-prices increase by 110%
